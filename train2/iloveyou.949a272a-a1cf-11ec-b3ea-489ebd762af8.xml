@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iloveyou</folder>
+	<filename>iloveyou.949a272a-a1cf-11ec-b3ea-489ebd762af8.jpg</filename>
+	<path>C:\Users\SOUMYA\new\RealTimeObjectDetection\Tensorflow\workspace\images\iloveyou\iloveyou.949a272a-a1cf-11ec-b3ea-489ebd762af8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>214</ymin>
+			<xmax>497</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
