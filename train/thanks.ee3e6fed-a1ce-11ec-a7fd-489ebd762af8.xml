@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.ee3e6fed-a1ce-11ec-a7fd-489ebd762af8.jpg</filename>
+	<path>C:\Users\SOUMYA\new\RealTimeObjectDetection\Tensorflow\workspace\images\thanks\thanks.ee3e6fed-a1ce-11ec-a7fd-489ebd762af8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>247</ymin>
+			<xmax>536</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

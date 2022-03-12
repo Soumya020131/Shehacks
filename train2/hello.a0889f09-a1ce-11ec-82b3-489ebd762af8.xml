@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.a0889f09-a1ce-11ec-82b3-489ebd762af8.jpg</filename>
+	<path>C:\Users\SOUMYA\new\RealTimeObjectDetection\Tensorflow\workspace\images\hello\hello.a0889f09-a1ce-11ec-82b3-489ebd762af8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>204</ymin>
+			<xmax>310</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+</annotation>
